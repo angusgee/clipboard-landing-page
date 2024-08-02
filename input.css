@@ -17,3 +17,7 @@ body {
     background-image: url("../img/bg-header-mobile.png");
   }
 }
+
+.centred {
+  @apply max-w-6xl mx-auto text-center;
+}
