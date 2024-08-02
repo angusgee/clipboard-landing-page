@@ -26,6 +26,10 @@ body {
   @apply mb-8 text-4xl font-bold text-darkGrayishBlue md:text-5xl;
 }
 
+.heading-5 {
+  @apply mb-2 text-2xl font-bold text-darkGrayishBlue;
+}
+
 .btn-container {
   @apply flex flex-col justify-center w-full space-y-6 text-xl text-white md:flex-row md:space-y-0 md:space-x-4;
 }
